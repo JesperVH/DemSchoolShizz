@@ -1,2 +1,2 @@
-# DemSchoolShizz
-School projects
+# BasicBookClass
+Book class used for other assignments
